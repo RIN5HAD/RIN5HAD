@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Front-end Developing
 - 💞️ I’m looking to collaborate on various Open Source Projects
-- 📫 How to reach me contact@rinshad.live
+- 📫 How to reach me rinshad@duck.com
 
 <!---
 RIN5HAD/RIN5HAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
